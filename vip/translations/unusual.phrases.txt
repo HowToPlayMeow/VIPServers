@@ -1,0 +1,77 @@
+﻿"Phrases"
+{
+	"Sent1"
+	{
+		"#format"	"{1:s}"
+		"en"		"{Purple}[Unusual] {default} You don't have access to this command as {1}!"
+		"fr"		"{Purple}[Unusual] {default} Tu n'as pas access a cette commande en {1}!"
+	}
+	"Sent2"
+	{
+		"en"		"{Purple}[Unusual] {default} No player found."
+		"fr"		"{Purple}[Unusual] {default} Aucun joueur trouve."
+	}
+	"Sent3"
+	{
+		"en"		"{Purple}[Unusual] {default} You don't have unusual effect!"
+		"fr"		"{Purple}[Unusual] {default} Tu n'as pas d'effet inhabituel!"
+	}
+	"Sent4"
+	{
+		"#format"	"{1:s}"
+		"en"		"{Purple}[Unusual] {default} {1} has been removed from the Database."
+		"fr"		"{Purple}[Unusual] {default} {1} a ete supprime de la base de donnee."
+	}
+	"Sent5"
+	{
+		"en"		"{purple}[Unusual] {default} Invalid Player SteamID!"
+		"fr"		"{purple}[Unusual] {default} SteamID invalide!"
+	}
+	"Sent6"
+	{
+		"en"		"{Purple}[Unusual] {default} Your unusual effects peridode is finished, you lost all your effects!"
+		"fr"		"{Purple}[Unusual] {default} Ta periode d'effets inhabituels est terminee, tu as perdu tous tes effets!"
+	}
+	"Sent7"
+	{
+		"en"		"{Purple}[Unusual] {default} You can't add more unusuals effects!"
+		"fr"		"{Purple}[Unusual] {default} Tu ne peux pas ajouter plus d'effets inhabituels!"
+	}
+	"Sent8"
+	{
+		"en"		"{Purple}[Unusual] {default} New effect added!"
+		"fr"		"{Purple}[Unusual] {default} Nouvel effets ajoute!"
+	}
+	"Sent9"
+	{
+		"en"		"{Purple}[Unusual] {default} Invalid Player!"
+		"fr"		"{Purple}[Unusual] {default} Joueur invalide!"
+	}
+	"Sent10"
+	{
+		"en"		"{Purple}[Unusual] {default} You have been removed from the Database."
+		"fr"		"{Purple}[Unusual] {default} Tu as ete supprime de la base de donnee."
+	}
+	"Sent11"
+	{
+		"#format"	"{1:N}"
+		"en"		"{Purple}[Unusual] {default} {1} has been removed from the Database."
+		"fr"		"{Purple}[Unusual] {default} {1} a ete supprime de la base de donnee."
+	}
+	"Sent12"
+	{
+		"#format"	"{1:d}"
+		"en"		"{purple}[Unusual] {default} Effect on item {1} has been deleted!"
+		"fr"		"{purple}[Unusual] {default} L'effet sur l'arme {1} a ete suprime!"
+	}
+	"Sent13"
+	{
+		"en"		"{purple}[Unusual] {default} Warning : Gunslinger and Lollichop are not allowed!"
+		"fr"		"{purple}[Unusual] {default} Attention: Le Flingueur et la sussache ne sont pas autorises!"
+	}
+	"Sent14"
+	{
+		"en"		"{purple}[Unusual] {default} No item found!"
+		"fr"		"{purple}[Unusual] {default} Aucun objet trouve!"
+	}
+}

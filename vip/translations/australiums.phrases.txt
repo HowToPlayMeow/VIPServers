@@ -1,0 +1,54 @@
+"Phrases"
+{
+	"Aus_Enabled"
+	{
+		"th"		"{green}[VIP] {white}เปิดใช้งานอาวุธ {gold}Australium"
+	}
+	"Aus_Disabled"
+	{
+		"th"		"{red}[VIP] {white}ปิดใช้งานอาวุธ {gold}Australium"
+	}
+	
+	"Aus_MenuTitle"
+	{
+		"th"		"[Australium]"
+	}
+	"Aus_SpecialWeps"
+	{
+		"th"		"อาวุธพิเศษทั้งหมด: Golden Wrench, Golden Frying Pan and Saxxy."
+	}
+	"Aus_SpecialWeps_GoldenWrench"
+	{
+		"th"		"The Golden Wrench"
+	}
+	"Aus_SpecialWeps_GoldenPan"
+	{
+		"th"		"The Golden Frying Pan"
+	}
+	"Aus_SpecialWeps_Saxxy"
+	{
+		"th"		"The Saxxy"
+	}
+	"Aus_SpecialWeps_GiveAlways_On"
+	{
+		"th"		"ปิดใช้งานอาวุธพิเศษ: [OFF]"
+	}
+	"Aus_SpecialWeps_GiveAlways_Off"
+	{
+		"th"		"เปิดใช้งานอาวุธพิเศษ: [ON]"
+	}
+	"Aus_SpecialWeps_Preffered"
+	{
+		"#format"	"{1:s}"
+		"th"		"อาวุธพิเศษ: {1}"
+	}
+	
+	"Aus_Mode_On"
+	{
+		"th"		"ปิดใช้งานอาวุธ Australium: [OFF]"
+	}
+	"Aus_Mode_Off"
+	{
+		"th"		"เปิดใช้งานอาวุธ Australium: [ON]"
+	}
+}
