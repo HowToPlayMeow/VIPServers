@@ -1,16 +1,23 @@
-	// VIP
+	// vip-system.smx
 	"sm_vipmenu"		"a"
+	// killstreak.smx
 	"sm_ks"			"a"
+	// fashion.smx
 	"sm_fashion"		"a"
+	// footprints_public.smx
 	"sm_footprints"		"a"
 	"sm_footsteps"		"a"
 	"sm_fs"			"a"
+	// kstreak_pref.smx
 	"sm_kstreak"		"a"
 	"sm_ksk"		"a"
+	// [TF2] Unusual Taunts.smx
 	"sm_utaunt"		"a"
 	"sm_tauntvip"		"a"
 	"sm_tv"			"a"
+	// vip-australium.smx
 	"sm_australium"		"a"
 	"sm_aussie"		"a"
+	// unusual.smx ,unusual_sql_converter.smx
 	"sm_unw"		"a"
 	"sm_unusualweapons"	"a"
